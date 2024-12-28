@@ -19,7 +19,6 @@ Peekeroo is a Minecraft mod inspired by the Peek mod. This mod enhances your gam
 
 1. Place any block inside a Shulker Box.
 2. Close the Shulker Box and observe as the first block is displayed on its lid.
-3. Hover over Shulker Boxes to quickly assess their contents.
 
 ## Compatibility
 
